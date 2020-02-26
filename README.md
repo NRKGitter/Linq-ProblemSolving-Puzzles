@@ -1,4 +1,4 @@
-# Linq-ProblemSolving-Puzzles    ********************************** Inspired by Mark Heath ****************
+# Linq-ProblemSolving-Puzzles    ****************** Inspired by Mark Heath ****************
 Advent code challenge solved using C# LINQ
 
 
